@@ -1,0 +1,13 @@
+name: AdminIP
+main: me.br_.minecraft.bukkit.instamine.IMMain
+version: 0.1
+author: BR_
+description: >
+    Insta-mine!
+commands:
+    instamine:
+        usage:
+            /<command>
+    im:
+        usage:
+            /<command>
